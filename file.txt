@@ -1,3 +1,4 @@
+changes done by apoorva
 command to add files to the staging area
 
 if you want to add a specific file
